@@ -24,10 +24,12 @@ Pipeline Creation: Data transformations are applied using scikit-learn Pipelines
 4. Model Training & Evaluation
 Multiple models are trained to predict house prices:
 
-Model	Performance (RMSE)
-Linear Regression	Moderate Accuracy
-Decision Tree	Overfits Training Data
-Random Forest	Best Performance
+Model          :    	Performance (RMSE)
+Linear Regression  : 	Moderate Accuracy
+Decision Tree	     :  Overfits Training Data
+Random Forest      : 	Best Performance
+
+
 Random Forest performed the best, achieving lower errors due to its ability to reduce overfitting.
 Cross-validation was used to improve model reliability.
 5. Predictions & Model Deployment
