@@ -25,8 +25,11 @@ Pipeline Creation: Data transformations are applied using scikit-learn Pipelines
 Multiple models are trained to predict house prices:
 
 Model          :    	Performance (RMSE)
+
 Linear Regression  : 	Moderate Accuracy
+
 Decision Tree	     :  Overfits Training Data
+
 Random Forest      : 	Best Performance
 
 
